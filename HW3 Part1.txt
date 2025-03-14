@@ -1,0 +1,8 @@
+Website URL: https://rxzhang7.github.io/personal-website/
+
+Styling & Customizations: 
+1. Customized navigation bar with a sticky position, active page highlighted, and hover effects.
+2. Organized the hero section with the profile picture, introduction, and name separately.
+3. Contact section with uniform card designs and hover effects.
+4. Enhanced the About page organization, with formatted sections, image placement.
+5. Made responsive design adjustments for better viewing, including resizing the font and flexible layouts.
